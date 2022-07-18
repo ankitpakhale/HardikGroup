@@ -4643,7 +4643,7 @@ fieldset:disabled .btn {
     .navbar-expand-lg .navbar-collapse {
         display: flex !important;
         flex-basis: auto;
-        margin-right: 200px;
+        margin-right: 75px;
     }
 
     .navbar-expand-lg .navbar-toggler {
@@ -6958,12 +6958,17 @@ fieldset:disabled .btn {
 }
 
 .link-info {
-    color: #0dcaf0
+    /* color: #0dcaf0; */
+    color: #B14CF0;
+    margin-left: 20px;
+    font-weight: 600;
 }
 
 .link-info:focus,
 .link-info:hover {
-    color: #3dd5f3
+    text-decoration: underline;
+    /* color: #3dd5f3 */
+    color: #6F14A8;
 }
 
 .link-warning {
