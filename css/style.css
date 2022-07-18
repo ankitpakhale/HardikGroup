@@ -1898,6 +1898,7 @@ ul.links li a::before,
 .navbar.fixedmenu .logo-scrolled,
 .navbar .logo-default {
     display: inline-block;
+    width: 250px;
 }
 
 .navbar-nav .nav-item {
